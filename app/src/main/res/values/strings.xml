@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Chat++</string>
+    <string name="log_out">Log Out</string>
+    <string name="exit">Exit</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="all_user">All User</string>
+    <string name="create_new_account">Create new Account!</string>
+    <string name="create_account">Create Account</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Welcome to Friends Page</string>
+    <string name="welcome_to_requestpage">Welcome to RequestPage</string>
+    <string name="chatpage">ChatPage</string>
+    <string name="settings_display_name">Display Name</string>
+    <string name="settings_status">Hi these, im using Lapit Chat App</string>
+    <string name="change_image">CHANGE IMAGE</string>
+    <string name="change_status">CHANGE STATUS</string>
+    <string name="status_input">what are you thinking?</string>
+    <string name="user_default_status">User default Status</string>
+    <string name="display_name">Display name</string>
+    <string name="users_display_name">Display Name</string>
+</resources>
